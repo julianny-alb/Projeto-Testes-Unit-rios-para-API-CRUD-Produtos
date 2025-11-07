@@ -9,8 +9,10 @@ O projeto está organizado da seguinte forma:
 /testes-crud-produtos
 |-- /controle
 |   `-- ProdutoControleTest.java  # Testes para a camada de Controller (endpoints HTTP)
+
 |-- /servico
 |   `-- ProdutoServicoTest.java   # Testes para a camada de Serviço (regras de negócio)
+
 `-- README.md                     # Este arquivo
 
 ### Camada de Serviço (`ProdutoServicoTest.java`)
